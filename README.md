@@ -1,8 +1,8 @@
 # Fantasy-Rides
 
 This project was with [Fantasy-Rides]
-Client site: (https://fantasy-ride.web.app/).
-Server site: (https://sleepy-hollows-38364.herokuapp.com/).
+Client site:- (https://fantasy-ride.web.app/).
+Server site:- (https://sleepy-hollows-38364.herokuapp.com/).
 
 ## Available Features
 
